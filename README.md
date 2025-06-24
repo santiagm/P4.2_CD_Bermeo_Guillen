@@ -14,7 +14,7 @@ Se implementa una secuencia de encendido de 9 LEDs dispuestos en una matriz 3x3.
 - Uso de estructura de datos `struct Led` para manejo de pines.
 
 ### Archivos
-- `Secuencia_botones.ino`: Código completo con funciones para lectura de botones, control de estados y manejo de LEDs.
+-  [`Secuencia_botones.ino`](./Secuencia_botones.ino): Código completo con funciones para lectura de botones, control de estados y manejo de LEDs.
 
 ---
 
@@ -30,7 +30,7 @@ Simulación de un cruce de tráfico controlado por dos semáforos (vertical y ho
 - Función auxiliar `setSemaforo()` para modularidad.
 
 ### Archivos
-- `semaforo.ino`: Código completo de la máquina de estados y lógica de temporización.
+- [`semaforo.ino`](./semaforo.ino): Código completo de la máquina de estados y lógica de temporización.
 
 
 ## Requisitos
