@@ -32,7 +32,6 @@ Simulación de un cruce de tráfico controlado por dos semáforos (vertical y ho
 ### Archivos
 - `semaforo.ino`: Código completo de la máquina de estados y lógica de temporización.
 
----
 
 ## Requisitos
 
@@ -42,7 +41,5 @@ Simulación de un cruce de tráfico controlado por dos semáforos (vertical y ho
 - Fuente de alimentación de 24V DC
 - LED y botones conectados al tablero
 
----
 
-## Estructura del repositorio
 
